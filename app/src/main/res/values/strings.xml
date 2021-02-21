@@ -13,4 +13,6 @@
     <string name="pair">That\'s a pair!</string>
     <string name="nothing_special">Nothing special</string>
     <string name="welcome">My Dice Rolling App</string>
+    <string name="press_to_roll_dice">Press to roll dice</string>
+    <string name="share">Share</string>
 </resources>
